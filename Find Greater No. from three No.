@@ -1,0 +1,9 @@
+if (x > y) and (x > z):
+        print("x is greater !!")
+elif (y > z) and (y > x):
+        print("y is greater !!")
+elif (z > y) and (z > x):
+        print("z is greater !!")
+else:
+        print("None")
+        
